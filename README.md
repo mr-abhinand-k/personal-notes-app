@@ -1,1 +1,1 @@
-# personal-notes-app
+# Personal Notes App
